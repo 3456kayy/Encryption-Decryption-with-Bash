@@ -19,7 +19,7 @@ To ensure robust security, the script enforces strong password protocols and lim
 <h2>Program walk-through:</h2>
 
 Due to its length, I have attached a Word file for your review, which contains the input code. The steps and explanations are annotated with hashtags for clarity: <br/>
-<img src="https://imgur.com/RKLyoAd.png" height="80%" width="80%"/>
+You can [view the Word file here](encryptdecrypt.docx).
 <br />
 <br />
 The program calculates the mean, median, range, variance, and standard deviation for a given set of numbers and displays the results in the terminal. Output:  <br/>
