@@ -22,16 +22,8 @@ Due to its length, I have attached a Word file for your review, which contains t
 You can [view the Word file here](encryptdecrypt.docx).
 <br />
 <br />
-The program calculates the mean, median, range, variance, and standard deviation for a given set of numbers and displays the results in the terminal. Output:  <br/>
-<img src="https://imgur.com/o3lvzsy.png" height="80%" width="80%"/>
-<br />
-<br />
-This script simulates a slot machine by defining an array of fruits using the RANDOM function to generate random numbers that corresponds to fruits. Input: <br/>
-<img src="https://imgur.com/jVH7nMk.png" height="80%" width="80%"/>
-<br />
-<br />
-The program initiates a slot machine spin, displays the results of the five wheels, and checks if all five fruits match. If they do, it declares a "Lucky Winner!" message; otherwise, it informs the user "Better luck next time!" Output:  <br/>
-<img src="https://imgur.com/J5v87MV.png" height="80%" width="80%"/>
+This output demonstrates the program's ability to successfully encrypt a document and provide appropriate error messages to the user when necessary. Output:  <br/>
+<img src="https://imgur.com/UKKatM3.png" height="80%" width="80%"/>
 <br />
 <br />
 The script prompts the user for their annual salary, calculates federal tax using conditional statements based on progressive tax brackets, and performs arithmetic operations using the bc command for precise calculations. Input:  <br/>
