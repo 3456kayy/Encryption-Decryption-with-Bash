@@ -18,7 +18,7 @@ To ensure robust security, the script enforces strong password protocols and lim
 
 <h2>Program walk-through:</h2>
 
-This script reads a set of numbers from the user and performs statistical calculations using basic Unix commands and arithmetic operations. Input: <br/>
+Due to its length, I have attached a Word file for your review, which contains the input code. The steps and explanations are annotated with hashtags for clarity: <br/>
 <img src="https://imgur.com/RKLyoAd.png" height="80%" width="80%"/>
 <br />
 <br />
