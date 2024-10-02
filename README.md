@@ -25,11 +25,3 @@ You can [view the Word file here](encryptdecrypt.docx).
 This output demonstrates the program's ability to successfully encrypt a document and provide appropriate error messages to the user when necessary. Output:  <br/>
 <img src="https://imgur.com/UKKatM3.png" height="80%" width="80%"/>
 <br />
-<br />
-The script prompts the user for their annual salary, calculates federal tax using conditional statements based on progressive tax brackets, and performs arithmetic operations using the bc command for precise calculations. Input:  <br/>
-<img src="https://imgur.com/dMXLP6g.png" height="80%" width="80%"/>
-<br />
-<br />
-The program calculates federal and state taxes, retirement, and Medicare deductions based on the user's input salary. It then subtracts the total deductions from the annual salary to determine the user's monthly take-home pay, which is displayed to the user. Output:  <br/>
-<img src="https://imgur.com/wrocr1o.png" height="80%" width="80%"/>
-<br />
