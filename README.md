@@ -10,6 +10,8 @@ To ensure reliable security, the script enforces strong password protocols and l
 <h2>Languages and Utilities Used</h2>
 
 - <b>Bash</b>
+- <b>GPG (for encryption)</b>
+- <b>AES-256 (encryption algorithm)</b>
 
 <h2>Environments Used </h2>
 
